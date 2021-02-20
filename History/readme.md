@@ -1,1 +1,3 @@
-# Why I have mutiple versions of the Tripod framework
+# Why does this repository contain multiple versions of the Tripod framework?
+
+I am experimenting.
